@@ -1,16 +1,43 @@
-### Hi there 👋
+# Tom Alle
 
-<!--
-**praetoros/praetoros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Last Updated 2023-02-17
 
-Here are some ideas to get you started:
+## Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Using:
+
+* PHP
+  * [Laravel](https://laravel.com/)
+  * Pure
+* JavaScript
+  * Pure
+  * JQuery
+* MySQL/MariaDB
+
+### Currently Learning:
+
+- [full stack open](https://fullstackopen.com/en/) (I can highly recommend)
+  - Node.js
+  - MongoDB
+  - React
+  - GraphQL, React Native, Containers, Etc
+
+### I Want To Learn:
+
+* [Remix](https://remix.run/)
+* [Cloudflare Workers](https://workers.cloudflare.com/)
+  * [Itty](https://github.com/kwhitley/itty-router)
+
+## Things I Like
+
+### Setup:
+
+* Docker
+* Github Actions
+* Azure/Cpanel
+
+### Misc:
+
+Jetbrains :D
+
+[Typora](https://typora.io/)
