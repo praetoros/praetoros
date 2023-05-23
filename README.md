@@ -17,19 +17,18 @@ Last Updated 2023-02-17
 * MySQL/MariaDB
 
 ### Currently Learning:
+- [Remix](https://remix.run/)
+- [Fly](https://fly.io/)
+- [Cloudflare Workers](https://workers.cloudflare.com/)
+  - [Itty](https://github.com/kwhitley/itty-router)
 
+### Back Burner:
 - [full stack open](https://fullstackopen.com/en/) (I can highly recommend)
   - Node.js
   - MongoDB
   - React
   - GraphQL, React Native, Containers, Etc
-- [Remix](https://remix.run/)
-- [Fly](https://fly.io/)
 
-### I Want To Learn:
-
-* [Cloudflare Workers](https://workers.cloudflare.com/)
-  * [Itty](https://github.com/kwhitley/itty-router)
 
 ## Things I Like
 
